@@ -3,7 +3,7 @@ class Sum{
         int a = 10;
     int b =12;
     int sum = a+b;
-    System.out.println(sum);
+    System.out.println("The sum of two numbers : " +sum);
     }
    
 }
